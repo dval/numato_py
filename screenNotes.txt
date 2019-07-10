@@ -1,0 +1,54 @@
+screenNotes.txt
+
+command key: ^A Literal ^A: a
+
+break  ^B b
+clear C
+colon :
+copy ^[ [
+detach ^D d
+digraph ^V
+displays * 
+dumptermcap .
+fit F
+flow ^F f
+focus ^I
+hardcopy h
+help ?
+history { }
+info i
+kill ^K k
+lastmsg ^M m
+license ,
+lockscreen ^X x
+log H
+meta a
+monitor M
+next ^@ ^N sp n
+number N
+only Q
+other ^A
+prev ^H ^P p ^?
+quit ^\
+readbuf <
+redisplay ^L l
+remove X
+removebuf =
+reset Z
+screen ^C c
+select '
+silence _
+split S
+suspend ^Z z
+time ^T t
+title A
+version v
+width W
+windows ^W w
+writebuf >
+xoff ^S s
+xon ^Q q
+
+^] paste .
+" windowlist -b
+- select -
